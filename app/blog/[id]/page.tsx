@@ -36,7 +36,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 
   return {
-    title: `${post.title} | SalesforceTroopAi Blog`,
+    title: `${post.title} | RKSalesforceAi Blog`,
     description: post.excerpt,
     keywords: post.tags,
     openGraph: {
