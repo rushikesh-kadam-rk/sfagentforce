@@ -34,7 +34,7 @@ export const COMPANY_CONFIG = {
   // Contact Information
   contact: {
     email: 'rushikeshkadamsfdc+info@gmail.com',
-    phone: '+91 (555) 123-4567',
+    phone: '+91 7720912926',
     businessHours: 'Mon-Fri: 9:00 AM - 6:00 PM EST',
     location: 'Remote-First Team Serving Clients Nationwide',
     legalEmail: 'rushikeshkadamsfdc+legal@gmail.com',
