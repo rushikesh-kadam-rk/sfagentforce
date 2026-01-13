@@ -24,7 +24,7 @@ export default function TermsPage() {
             <section className="space-y-4">
               <h2 className="text-2xl font-bold text-navy">1. Introduction</h2>
               <p>
-                Welcome to SalesforceTroopAi. We are committed to protecting your business data and privacy. 
+                Welcome to RKSalesforceAi. We are committed to protecting your business data and privacy. 
                 This document outlines our commitment to your security and the rules governing the use of our consulting services.
               </p>
             </section>
@@ -32,7 +32,7 @@ export default function TermsPage() {
             <section className="space-y-4">
               <h2 className="text-2xl font-bold text-navy">2. Services Agreement</h2>
               <p>
-                By engaging SalesforceTroopAi, you agree to provide necessary sandbox access and timely feedback to ensure project milestones are met. We provide a detailed Statement of Work (SOW) for every engagement.
+                By engaging RKSalesforceAi, you agree to provide necessary sandbox access and timely feedback to ensure project milestones are met. We provide a detailed Statement of Work (SOW) for every engagement.
               </p>
             </section>
 
