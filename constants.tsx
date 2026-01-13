@@ -25,19 +25,19 @@ import { Service, NavItem, Testimonial, TeamMember, BlogPost, FAQItem } from './
 
 export const COMPANY_CONFIG = {
   // Company Information
-  name: 'SalesforceTroopAi',
-  nameShort: 'TroopAi',
+  name: 'SalesforceAi',
+  nameShort: 'RKAi',
   tagline: 'AI-Powered Salesforce Solutions',
   description: 'Providing modern businesses with world-class, AI-driven Salesforce implementation and consulting services.',
-  logoText: 'T', // Single character for logo
+  logoText: 'RK', // Single character for logo
   
   // Contact Information
   contact: {
-    email: 'info@salesforcetroopai.com',
-    phone: '+1 (555) 123-4567',
+    email: 'rushikeshkadamsfdc+info@gmail.com',
+    phone: '+91 (555) 123-4567',
     businessHours: 'Mon-Fri: 9:00 AM - 6:00 PM EST',
     location: 'Remote-First Team Serving Clients Nationwide',
-    legalEmail: 'legal@salesforcetroopai.com',
+    legalEmail: 'rushikeshkadamsfdc+legal@gmail.com',
     // Form submission - Use one of these simple solutions:
     // Option 1: FormSubmit (easiest) - Just set formAction to: `https://formsubmit.co/${contact.email}`
     // Option 2: Formspree - Sign up at formspree.io and get your form ID
@@ -48,16 +48,16 @@ export const COMPANY_CONFIG = {
   
   // Social Media Links
   social: {
-    linkedin: 'https://www.linkedin.com/company/salesforce-troop',
-    twitter: 'https://twitter.com/karkra_nikhil',
-    youtube: 'https://www.youtube.com/@salesforcetroop',
+    linkedin: 'https://www.linkedin.com/in/rushikesh-kadam%E2%98%81%EF%B8%8F%E2%9A%A1%EF%B8%8F-0a313511b',
+    twitter: 'https://twitter.com',
+    youtube: 'https://www.youtube.com',
     // Add more social platforms as needed
   },
   
   // Legal & Copyright
   copyright: {
-    year: 2025,
-    companyName: 'SalesforceTroopAi',
+    year: 2026,
+    companyName: 'RKSalesforceAi',
   },
   
   // Branding Colors (already in tailwind.config.ts, but keeping for reference)
@@ -69,8 +69,8 @@ export const COMPANY_CONFIG = {
   
   // Site Metadata
   site: {
-    url: 'https://sfai.netlify.app',
-    defaultTitle: 'SalesforceTroopAi | AI-Powered Salesforce Solutions',
+    url: 'https://rkagentforce.netlify.app',
+    defaultTitle: 'RKSalesforceAi | AI-Powered Salesforce Solutions',
     defaultDescription: 'Transform your business with AI-powered Salesforce solutions. Get 30% more productivity and 2X ROI with our expert implementation.',
   },
   
