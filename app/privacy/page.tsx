@@ -19,12 +19,12 @@ export default function PrivacyPage() {
             Privacy Policy
           </h1>
           <div className="prose prose-lg prose-navy max-w-none text-gray-600 space-y-8">
-            <p><strong>Last Updated: January 01, 2025</strong></p>
+            <p><strong>Last Updated: January 13, 2026</strong></p>
             
             <section className="space-y-4">
               <h2 className="text-2xl font-bold text-navy">1. Introduction</h2>
               <p>
-                Welcome to SalesforceTroopAi. We are committed to protecting your business data and privacy. 
+                Welcome to RKSalesforceAi. We are committed to protecting your business data and privacy. 
                 This document outlines our commitment to your security and the rules governing the use of our consulting services.
               </p>
             </section>
