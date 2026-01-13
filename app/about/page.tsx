@@ -15,11 +15,11 @@ import {
 import { TEAM, COMPANY_CONFIG } from '@/constants'
 
 export const metadata: Metadata = {
-  title: 'About Us | SalesforceTroopAi - Redefining Salesforce Consulting',
-  description: 'Founded in 2015, SalesforceTroopAi is a global remote-first team of architects, developers, and strategists specializing in AI-powered Salesforce solutions.',
-  keywords: ['About SalesforceTroopAi', 'Salesforce Consultants', 'Salesforce Team', 'Salesforce Experts'],
+  title: 'About Us | RKSalesforceAi - Redefining Salesforce Consulting',
+  description: 'Founded in 2026, RKSalesforceAi is a global remote-first team of architects, developers, and strategists specializing in AI-powered Salesforce solutions.',
+  keywords: ['About RKSalesforceAi', 'Salesforce Consultants', 'Salesforce Team', 'Salesforce Experts'],
   openGraph: {
-    title: 'About Us | SalesforceTroopAi - Redefining Salesforce Consulting',
+    title: 'About Us | RKSalesforceAi - Redefining Salesforce Consulting',
     description: 'We blend deep ecosystem expertise with cutting-edge AI strategy to build the CRM solutions of tomorrow.',
   },
 }
@@ -46,7 +46,7 @@ export default function AboutPage() {
               <h2 className="text-3xl md:text-4xl font-bold text-navy tracking-tight">Our Story</h2>
               <div className="space-y-6 text-lg text-gray-600 leading-relaxed font-light">
                 <p>
-                  Founded in 2015, SalesforceTroopAi began with a simple mission: to help businesses harness the full power of Salesforce without the typical consulting friction. We saw too many companies struggling with "shelfware"—expensive software that nobody used.
+                  Founded in 2026, RKSalesforceAi began with a simple mission: to help businesses harness the full power of Salesforce without the typical consulting friction. We saw too many companies struggling with "shelfware"—expensive software that nobody used.
                 </p>
                 <p>
                   Over the last decade, we have evolved into a global remote-first team of architects, developers, and strategists. We were early adopters of AI within the ecosystem, recognizing that the future of CRM isn't just data entry, but intelligent action.
